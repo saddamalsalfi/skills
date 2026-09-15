@@ -5,5 +5,5 @@ Thumbs.db
 test/
 
 # Standalone subprojects with their own Git repositories
-laravel-local-setup/
+laravel-skills-localsetup/
 laravel-skills-multilingual/
